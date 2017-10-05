@@ -1,0 +1,214 @@
+body
+{
+background:#778899; top center no-repeat;
+color:#ffffff;
+font-weight:400;
+height:80px;
+margin:0 20px 10px 0;
+text-align:center;
+}
+
+
+a:link{text-decoration: none;}
+a:visited{color: #1a89be}
+
+  .title{
+	font-family: futura;
+	font-size: 25px;
+	position: absolute;
+	top: 10%;
+	left: 50%;
+	transform:translate(-50%);
+	color: white;
+}
+
+  .title1{
+	font-family: futura;
+	font-size: 20px;
+	position: absolute;
+	top: 5%;
+  left: 46%;
+  text-align: left;
+  transform:translate(-50%);
+	color: white;
+  
+}
+
+.title2{
+	font-family: futura;
+	font-size: 20px;
+	position: absolute;
+	top: 10%;
+  left: 32%;
+  text-align: left;
+  transform:translate(-50%);
+	color: white;
+  
+}
+.title3{
+	font-family: futura;
+	font-size: 20px;
+	position: absolute;
+	top: 15%;
+  left: 50%;
+  text-align: left;
+  transform:translate(-50%);
+	color: white;
+  
+}
+
+.title4{
+	font-family: futura;
+	font-size: 20px;
+	position: absolute;
+	top: 25%;
+	left: 50%;
+  text-align: left;
+	transform:translate(-50%);
+	color: white;
+}
+
+.title5{
+	font-family: futura;
+	font-size: 20px;
+	position: absolute;
+	top: 37%;
+  left: 50%;
+   text-align: left; 
+	transform:translate(-50%);
+	color: white;
+}
+
+.title6{
+	font-family: futura;
+	font-size: 20px;
+	position: absolute;
+	top: 48%;
+	left: 50%;
+  text-align: left;
+	transform:translate(-50%);
+	color: white;
+}
+
+.title7{
+	font-family: futura;
+	font-size: 20px;
+	position: absolute;
+	top: 62%;
+	left: 50%;
+  text-align: left;
+	transform:translate(-50%);
+	color: white;
+}
+
+.title8{
+	font-family: futura;
+	font-size: 20px;
+	position: absolute;
+	top: 75%;
+	left: 50%;
+  text-align: left;
+	transform:translate(-50%);
+	color: white;
+}
+
+.title9{
+	font-family: futura;
+	font-size: 20px;
+	position: absolute;
+	top: 89%;
+	left: 50%;
+  text-align: left;
+	transform:translate(-50%);
+	color: white;
+}
+
+.img{
+ 
+ position: absolute;
+  top: 29%;
+  left: 50%;
+}
+
+.img1{
+	position: absolute;
+  top: 40%;
+  left: 50%;
+	 }
+
+
+.img2{
+ position: absolute;
+  top: 52%;
+  left: 50%;
+}
+
+.img3{
+ position: absolute;
+  top: 70%;
+  left: 50%;
+}
+
+
+.img4{
+ position: absolute;
+  top: 88%;
+  left: 50%;
+}
+
+
+.img5{
+ position: absolute;
+  top: 110%;
+  left: 50%;
+}
+
+
+
+.img6{
+ position: absolute;
+  top: 110%;
+  left: 80%;
+}
+
+.img7{
+ position: absolute;
+  top: 110%;
+  left: 110%;
+}
+
+
+.img8{
+ position: absolute;
+  top: 130%;
+  left: 50%;
+}
+
+.img9{
+ position: absolute;
+  top: 155%;
+  left: 50%;
+}
+
+.img10{
+ position: absolute;
+  top: 152%;
+  left: 70%;
+}
+
+.img11{
+ position: absolute;
+  top: 170%;
+  left: 50%;
+}
+
+.Rectangle_arrondi_1{
+  border-radius: 10px;
+   background-color: #1a89be;
+  position: absolute;
+  left: 20%;
+  top: 30%;
+  width: 700px;
+  height: 1000px;
+  transform:translate(-50%);
+  }
